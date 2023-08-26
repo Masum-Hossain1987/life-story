@@ -1,2 +1,4 @@
 I born in 1987 February 11
 I have done my SSC 2004
+logo-allignment is centered
+
